@@ -404,3 +404,7 @@ button:disabled:hover {
 #opening {
   text-shadow: 2px 2px 2px transparent;
 }
+
+.skins {
+  font-family: mc;
+}
